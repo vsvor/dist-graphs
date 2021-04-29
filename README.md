@@ -1,4 +1,4 @@
-# dist-graphs
+# Unit Distance Graphs and the Nelson-Hadwiger problem
 This repository presents the results of the search for 5-chromatic unit distance draphs embedded in R^2 and S^2(r).
 
 
